@@ -1,7 +1,6 @@
 ---
 layout: post
 title: You're up and running!
-categories: test_cat
 tags: test, another tage
 ---
 
