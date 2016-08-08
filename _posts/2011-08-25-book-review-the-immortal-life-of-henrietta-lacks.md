@@ -1,0 +1,20 @@
+---
+id: 164
+title: 'Book review: The immortal life of Henrietta Lacks'
+date: 2011-08-25T16:30:00+00:00
+author: Steven
+layout: post
+guid: https://hypotheses.wordpress.com/2011/08/25/book-review-the-immortal-life-of-henrietta-lacks/
+permalink: /book-review-the-immortal-life-of-henrietta-lacks/
+reddit:
+  - 'a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1339423197";}'
+categories:
+  - book review
+---
+No one can spend very long learning about life science without hearing about [HeLa cells](http://en.wikipedia.org/wiki/HeLa), but the story behind this cell line &#8211; where the cells came from, why they behave the way they do, and even why they have been so useful scientifically and medically &#8211; is more of a mystery. It is this story which [Rebecca Skloot](http://www.rebeccaskloot.com/) ([@RebeccaSkloot](https://twitter.com/#!/RebeccaSkloot) on twitter) tells in _[The Immortal Life of Henrietta Lacks](http://www.amazon.co.uk/Immortal-Life-Henrietta-Lacks/dp/0330533444/ref=sr_1_1?ie=UTF8&qid=1314284559&sr=8-1)_.
+
+I approached this book with high expectations, given the [praise](http://www.wired.com/wiredscience/2010/02/book-review-the-immortal-life-of-henrietta-lacks/) and [awards](http://www.wellcomebookprize.org/News/Announcements/WTX063313.html) it has received. And on one level I was not disappointed. The human story of Henrietta Lacks and her family is compellingly told and the fortunes of Henrietta&#8217;s immortal cells are drawn into sharp contrast with those of Henrietta herself and her descendents. The book also contains some fascinating portraits of the scientists and clinicians involved in the story. It would have been very easy to portray these (mostly) men in a negative light but Skloot manages to strike a balance between their laudable motives, the influence of business and an often amazing lack of concern for the donor of the cells and her family. The story of the scientists is a vignette of the complex motives that underpin research, a case study to disprove the idea that research is a cold, objective activity carried out in isolation from the pressures of the world.
+
+I also think Skloot deals very effectively with many of the complex ethical issues surrounding the use of human subjects and tissues. The lack of appropriate regulatory safeguards as the new research into human cell lines developed is striking, especially given the tight restrictions on using human tissue and the requirements for consent that now operate. On one level this is shocking but also reflects the [challenges](http://jackstilgoe.wordpress.com/2011/07/08/control-closure-and-cars/) of ensuring that regulation keeps pace with technological developments. And I couldn&#8217;t help but have slightly mixed feelings on this point. Would the research have progressed so quickly and effectively had there been a comprehensive and effective regulatory system in place? Of course we can never know, but given the apparently unique properties of Henrietta Lack&#8217;s cells, had she or her family refused consent many of the benefits that came from the research would have arrived much more slowly. These are complex ethical questions.
+
+There is much to enjoy in this thought-provoking and well written book. But I can&#8217;t help thinking there is also a missed opportunity. I was disappointed not to learn more about the science of HeLa cells. What is special about them? How have they been used in research? What are they telling us about how non-cancerous cells divide and grow? Issues like these are not explored in any detail: for me the book over-emphasises the human story, interesting and compelling as it is, without providing enough of the science. This is just a personal preference, though, and I would certainly encourage anyone who is interested in the relationship between research and society to read this book.
