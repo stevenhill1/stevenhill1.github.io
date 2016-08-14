@@ -13,9 +13,7 @@ categories:
 ---
 [BIS](http://www.bis.gov.uk/) published their [annual &#8216;SET statistics&#8217;](http://www.bis.gov.uk/policies/science/science-funding/set-stats) last week, which provide a wealth of information on the UK&#8217;s investment in science, engineering and technology. The [Campaign for Science and Engineering](http://sciencecampaign.org.uk/) have [published](http://sciencecampaign.org.uk/?p=7552) their take on the numbers. For me, one of the interesting aspects of the dataset is the reasonably long time series it provides, giving insights into long term trends. I compiled the following graph from the data to show how the general pattern of research investment has varied over time:
 
-<p style="text-align:center;">
-  <img class="aligncenter size-full wp-image-171" title="Graph of patterns of research investment" src="http://stevenhill.org.uk/wp-content/uploads/2011/10/research_funding1.png" alt="" width="700" height="459" />
-</p>
+![Graph of patterns of research investment](/images/research_funding.png)
 
 <p style="text-align:left;">
    The investment levels are the inflation corrected figures, converted to 2009/10 prices. Some striking features of the patterns of investment are:
