@@ -23,9 +23,7 @@ Looking back on the last UK national research assessment, the Research Excellenc
 
 In the REF, at the highest level, there are two axes along which quality is assessed, an assessment of research outputs from an academic perspective, and an assessment of the broader societal impact of research. One of the interesting questions raised by, and potentially answerable from, the structure of the REF is the extent to which these dimensions of quality are related to one another. Does high performance on an academic scale co-occur with high performance in terms of societal impact? Looking at the level of the individual submissions made to REF2014, it is clear that there is a relationship:
 
-<p style="text-align: center;">
-  <a href="http://stevenhill.org.uk/wp-content/uploads/2015/07/output_vs_impact.png"><img class="aligncenter wp-image-273 size-full" src="http://stevenhill.org.uk/wp-content/uploads/2015/07/output_vs_impact.png" alt="output_vs_impact" width="618" height="617" srcset="http://stevenhill.org.uk/wp-content/uploads/2015/07/output_vs_impact.png 618w, http://stevenhill.org.uk/wp-content/uploads/2015/07/output_vs_impact-150x150.png 150w, http://stevenhill.org.uk/wp-content/uploads/2015/07/output_vs_impact-300x300.png 300w" sizes="(max-width: 618px) 100vw, 618px" /></a>
-</p>
+![](images/output_vs_impact.png)
 
 <!--INSERT CORELATION GRAPH WITH RESEARCH POWER-->
 
