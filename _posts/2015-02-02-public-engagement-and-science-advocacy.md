@@ -26,7 +26,7 @@ Public engagement with research is not a straightforward concept. The](http://ww
 
 Building on this a number of years ago, the &#8216;Science for All&#8217; working group developed a [broad characterisation](http://www.britishscienceassociation.org/sites/default/files/root/SiS/PE%20conversational%20tool%20Final%20251010.pdf)[pdf] of public engagement, summarised in the engagement triangle.
 
-[<img class="alignnone size-full" src="http://stevenhill.org.uk/wp-content/uploads/2015/02/IMG_0117.jpg" alt="(null)" />](http://stevenhill.org.uk/wp-content/uploads/2015/02/IMG_0117.jpg)
+![](/images/engagement_triangle.jpg)
 
 This framework identifies three axes on which to consider engagement, depending on whether the aim is to transmit, receive or collaborate. There is no hierarchy implied between the different objectives, but the exhortation is to be clear about what, exactly, you are seeking to achieve with engagement. There is also a policy implication from this way of thinking: at some level we need to consider whether the _balance_ between different types of engagement is right. This probably isn&#8217;t about an individual covering all three bases, but at the level of a university, and certainly nationally, we need to consider what combination we are seeking to achieve.
 
