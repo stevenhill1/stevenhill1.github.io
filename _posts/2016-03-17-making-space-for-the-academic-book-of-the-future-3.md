@@ -30,7 +30,7 @@ While there is much potential for innovation, the uptake seems slow. There is lo
 
 And, like Henry Ford&#8217;s potential customers, there is conservatism in academic community, both the producers and users of the academic book. A recent [survey](http://oapen-uk.jiscebooks.org/research-findings/researcher-survey-2014/), carried out as part of the [OAPENUK project](http://oapen-uk.jiscebooks.org/), found that even among researchers who use electronic versions of scholarly works, there was a strong preference for print.
 
-<a href="http://stevenhill.org.uk/wp-content/uploads/2016/03/OAPEN_data1.png" rel="attachment wp-att-295"><img class="aligncenter wp-image-295 size-large" src="http://stevenhill.org.uk/wp-content/uploads/2016/03/OAPEN_data1-1024x568.png" alt="OAPEN_data1" width="960" height="533" srcset="http://stevenhill.org.uk/wp-content/uploads/2016/03/OAPEN_data1-1024x568.png 1024w, http://stevenhill.org.uk/wp-content/uploads/2016/03/OAPEN_data1-300x166.png 300w, http://stevenhill.org.uk/wp-content/uploads/2016/03/OAPEN_data1-768x426.png 768w, http://stevenhill.org.uk/wp-content/uploads/2016/03/OAPEN_data1.png 1301w" sizes="(max-width: 960px) 100vw, 960px" /></a>
+![](/images/OAPEN_data1.png)
 
 There is a strong perception in the academy that the book can&#8217;t be improved, exemplified by this quote from the late [Umberto Eco](http://www.umbertoeco.com/en/):
 
