@@ -13,7 +13,7 @@ tags:
 ---
 
 
-Over the last few years I have been blogging, somewhat infrequently, about research policy at a <wordpress.com> [site](https://hypotheses.wordpress.com/). I have also been reasonably active on [twitter](http://twitter.com/stevenhill), and experimented with writing about other topics on [Posterous](https://posterous.com/).
+Over the last few years I have been blogging, somewhat infrequently, about research policy at a [wordpress.com](htt#p;//wordpress.com) [site](https://hypotheses.wordpress.com/). I have also been reasonably active on [twitter](http://twitter.com/stevenhill), and experimented with writing about other topics on [Posterous](https://posterous.com/).
 
 I have now decided to set up this new site with a commitment to more regular posting. The old [Testing Hypotheses](https://hypotheses.wordpress.com/) will no longer be updated, and this site will contain material on research policy. At some point I will also import the old material onto this site. Here I will also write about other things that I find interesting or remarkable. The categories and tags should allow you to filter out anything you don&#8217;t want to read.
 
