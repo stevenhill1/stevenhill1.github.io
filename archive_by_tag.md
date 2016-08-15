@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /tags/
+title: Archive
 ---
 
 <p><a href="/archive/">by date</a> | by <a href="/categories/">category</a> | by tag</p>
