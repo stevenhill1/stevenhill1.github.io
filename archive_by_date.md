@@ -5,7 +5,7 @@ permalink: /archive/
 sitemap: false
 ---
 
-<p>by date | <a href="/categories/">by category</a></p>
+<p>by date | <a href="/categories/">by category</a> | <a href="/tags/">by tag</a></p>
 
 <div id="index">
 {% for post in site.posts %}
