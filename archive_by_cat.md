@@ -1,13 +1,13 @@
 ---
-    layout: page
-    title: Archive
-    permalink: /categories/
-    sitemap: false
-    ---
+layout: page
+title: Archive
+permalink: /categories/
+sitemap: false
+---
     
-    <p><a href=/archive/>by date</a> | by category</p>
+<p><a href=/archive/>by date</a> | by category</p>
     
-    <div>
+<div>
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
      <span class="site-tag">
