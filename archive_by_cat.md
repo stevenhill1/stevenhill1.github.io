@@ -5,7 +5,7 @@ permalink: /categories/
 sitemap: false
 ---
     
-<p><a href="/archive/">by date</a> | by category</p>
+<p><a href="/archive/">by date</a> | by category | <a href="/tags/">by tag</a></p>
 
 <div>
 {% assign categories = site.categories | sort %}
