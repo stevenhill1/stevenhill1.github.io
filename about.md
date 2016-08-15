@@ -33,6 +33,6 @@ Steven Hill is Head of Research and Health Policy at the Higher Education Fundin
 
 ## Photos
 
-![](https://www.dropbox.com/s/fzpmc5o4v6jioqu/Steven%20Hill%20photo.jpg?dl=0)
+![](/images/Steven Hill photo.jpg)
 
-![](https://www.dropbox.com/s/wkt2hpwyldja1ha/Steven%20Hill.JPG?dl=0)
+![](/images/Steven Hill.JPG)
