@@ -3,6 +3,8 @@ layout: page
 permalink: /tags/
 ---
 
+<p><a href="/archive/">by date</a> | by <a href="/categories/">category</a> | by tag</p>
+
 <ul class="tag-cloud">
 {% for tag in site.tags %}
   <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
