@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Archive::by date
+title: Archive 
 permalink: /archive/
 sitemap: false
 ---
+
+by date | by category
 
 <div id="index">
 {% for post in site.posts %}
