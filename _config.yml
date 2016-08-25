@@ -16,6 +16,7 @@ avatar:
 # Flags below are optional
 #
 
+timezone: Europe/London
 paginate: 5
 
 # Includes an icon in the footer for each username you enter
