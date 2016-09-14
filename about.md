@@ -13,6 +13,8 @@ Welcome to stevenhill.org.uk, the website of Steven Hill. This site is built wit
 
 You can see details of my career history and experience on [LinkedIn](www.linkedin.com/in/steven-hill-344576).
 
+On twitter I am [@stevenhill](https://twitter.com/stevenhill), and there is an [archive of my tweets](http://stevenhill.org.uk/twitter-archive/) on this site.
+
 Publications: [ORCID](http://orcid.org/0000-0003-1799-1915)
 
 ### About 140 characters
