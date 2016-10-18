@@ -11,7 +11,7 @@ Welcome to stevenhill.org.uk, the website of Steven Hill. This site is built wit
 
 ## Biography
 
-You can see details of my career history and experience on [LinkedIn](www.linkedin.com/in/steven-hill-344576).
+You can see details of my career history and experience on [LinkedIn](http://www.linkedin.com/in/steven-hill-344576).
 
 On twitter I am [@stevenhill](https://twitter.com/stevenhill), and there is an [archive of my tweets](http://stevenhill.org.uk/twitter-archive/) on this site.
 
