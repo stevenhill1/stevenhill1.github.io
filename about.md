@@ -3,7 +3,6 @@ layout: page
 permalink: /about/
 ---
 
-# About this site
 
 Welcome to stevenhill.org.uk, the website of Steven Hill. This site is built with [Jekyll](https://jekyllrb.com/) and runs on [GitHub Pages](https://pages.github.com/). The site is a fork of [Jekyll-Now](http://www.jekyllnow.com/). More technical details are available [here](/tech/).
 
