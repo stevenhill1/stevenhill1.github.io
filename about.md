@@ -16,17 +16,19 @@ On twitter I am [@stevenhill](https://twitter.com/stevenhill), and there is an [
 
 Publications: [ORCID](http://orcid.org/0000-0003-1799-1915)
 
-### About 140 characters
+Biographies of varying lengths are available below:
+
+### Biography in about 140 characters
 
 Steven Hill is Head of Research Policy at the Higher Education Funding Council for England. He has a background in research policy.
 
-### About 50 words
+### Biography in about 50 words
 
 Steven Hill is Head of Research Policy at the Higher Education Funding Council for England. Prior to joining HEFCE Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs. Earlier in his career Steven was a university lecturer.
 
 [download](/files/50WordBio.txt)
 
-### About 100 words
+### Biography in about 100 words
 
 Steven Hill is Head of Research Policy at the Higher Education Funding Council for England. At HEFCE Steven is responsible for research funding and assessment, open research, public engagement and impact. He is the chair of the steering group for the 2021 Research Excellence Framework, that is currently under development. Prior to joining HEFCE Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs, working on evidence-based policy making. Earlier in his career Steven was a university lecturer at the University of Oxford where his research focused on plant biology.
 
