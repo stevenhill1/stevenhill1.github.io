@@ -19,17 +19,17 @@ Publications: [ORCID](http://orcid.org/0000-0003-1799-1915)
 
 ### About 140 characters
 
-Steven Hill is Head of Research and Health Policy at the Higher Education Funding Council for England. He has a background in research policy.
+Steven Hill is Head of Research Policy at the Higher Education Funding Council for England. He has a background in research policy.
 
 ### About 50 words
 
-Steven Hill is Head of Research and Health Policy at the Higher Education Funding Council for England. Prior to joining HEFCE Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs. Earlier in his career Steven was a university lecturer.
+Steven Hill is Head of Research Policy at the Higher Education Funding Council for England. Prior to joining HEFCE Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs. Earlier in his career Steven was a university lecturer.
 
 [download](/files/50WordBio.txt)
 
 ### About 100 words
 
-Steven Hill is Head of Research and Health Policy at the Higher Education Funding Council for England. At HEFCE Steven is responsible for research funding and assessment, open research, public engagement and impact. He also leads on policy relating to education in medicine, dentistry, pharmacy, nursing, midwifery and other allied health professions. Prior to joining HEFCE Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs, working on evidence-based policy making. Earlier in his career Steven was a university lecturer at the University of Oxford where his research focused on plant biology.
+Steven Hill is Head of Research Policy at the Higher Education Funding Council for England. At HEFCE Steven is responsible for research funding and assessment, open research, public engagement and impact. He is the chair of the steering group for the 2021 Research Excellence Framework, that is currently under development. Prior to joining HEFCE Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs, working on evidence-based policy making. Earlier in his career Steven was a university lecturer at the University of Oxford where his research focused on plant biology.
 
 [download](/files/100WordBio.txt)
 
