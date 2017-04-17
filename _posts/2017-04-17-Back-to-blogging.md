@@ -1,6 +1,6 @@
 ---
 layout: post
-date:
+date: 2017-04-17T19:52:24+0100
 title: Back to blogging
 categories:
     - admin
