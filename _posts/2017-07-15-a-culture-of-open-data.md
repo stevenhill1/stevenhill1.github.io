@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 
+date: 2017-07-15T19:38:22+0100
 title: A culture of open data
 categories:
      - Research policy
