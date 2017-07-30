@@ -6,9 +6,9 @@ categories:
     - research policy
 tags:
     - funding
-	- research culture
-	- universities
-	- linkpost
+    - research culture
+    - universities
+    - linkpost
 ---
 
 This [piece](http://www.nature.com/news/don-t-run-biomedical-science-as-a-business-1.22366) in [Nature](http://www.nature.com/nature/index.html) by [Michele Pagano](https://med.nyu.edu/faculty/michele-pagano) has an interesting take on the effect of increasing research funding:
