@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Effect of increased research funding
-date: 2017-07-30T16:18:54+0100
+date: 2017-07-30T16:30:54+0100
 categories:
     - research policy
 tags:
