@@ -12,7 +12,7 @@ tags:
     - scholarly communication
 ---
 
-I was recently asked to comment on a [new paper](http://journals.plos.org/plosone/articleid=10.1371/journal.pone.0179722#pone.0179722.ref020) looking at the relationship between [REF](http://ref.ac.uk) scores, funding outcomes and venue of publication. I have made some [annotations](https://via.hypothes.is/http:/journals.plos.org/plosone/article?id=10.1371/journal.pone.0179722#pone.0179722.ref020) onto the paper using [hypothes.is](http://hypothes.is).
+I was recently asked to comment on a [new paper](https://doi.org/10.1371/journal.pone.0179722) looking at the relationship between [REF](http://ref.ac.uk) scores, funding outcomes and venue of publication. I have made some [annotations](https://via.hypothes.is/http:/journals.plos.org/plosone/article?id=10.1371/journal.pone.0179722#pone.0179722.ref020) onto the paper using [hypothes.is](http://hypothes.is).
 
 Overall, I don't think that the paper adds very much. There are two issues covered: an attempt to calculate the funding allocated on the basis of 4-star and 3-star outputs, and an investigation of the relationship between REF scores and the venue of publication of journal articles.
 
