@@ -1,6 +1,6 @@
 ---
 layout: post
-date: zts
+date: 2017-08-02T17:13:53+01:00
 title: A paper exploring REF, funding and journal metrics
 categories:
     - research policy
