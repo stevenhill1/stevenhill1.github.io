@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/stevenhill
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://stevenhill.org.uk
+  * I am stevenhill (https://keybase.io/stevenhill) on keybase.
+  * I have a public key ASCD4nNkOb9_B-2pwQeaSdg79XVvHuuqtc_mQXyaD31Olgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012083e2736439bf7f07eda9c1079a49d83bf5756f1eebaab5cfe6417c9a0f7d4e960a",
+      "host": "keybase.io",
+      "kid": "012083e2736439bf7f07eda9c1079a49d83bf5756f1eebaab5cfe6417c9a0f7d4e960a",
+      "uid": "760e2d7ba2df18619aaad6796668cb19",
+      "username": "stevenhill"
+    },
+    "merkle_root": {
+      "ctime": 1505239402,
+      "hash": "ba62128b48bc2347520ba0042531773c13547b97b5400ae734c8c112857198399ae33de13ece886246992a523157b8768e9b92724d1cbab1fd4a03f6c9a3c57f",
+      "hash_meta": "6c68052dbe835e4cf3c4434588cb4048cec1d41755c567f613e8a6d0a17cc75f",
+      "seqno": 1382760
+    },
+    "service": {
+      "hostname": "stevenhill.org.uk",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.27"
+  },
+  "ctime": 1505239422,
+  "expire_in": 504576000,
+  "prev": "204f79eb28bc5d2f3d6589489a47c780bd869e2278ec366018887d4fbd5e2936",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgg+JzZDm/fwftqcEHmknYO/V1bx7rqrXP5kF8mg99TpYKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODNlMjczNjQzOWJmN2YwN2VkYTljMTA3OWE0OWQ4M2JmNTc1NmYxZWViYWFiNWNmZTY0MTdjOWEwZjdkNGU5NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODNlMjczNjQzOWJmN2YwN2VkYTljMTA3OWE0OWQ4M2JmNTc1NmYxZWViYWFiNWNmZTY0MTdjOWEwZjdkNGU5NjBhIiwidWlkIjoiNzYwZTJkN2JhMmRmMTg2MTlhYWFkNjc5NjY2OGNiMTkiLCJ1c2VybmFtZSI6InN0ZXZlbmhpbGwifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDUyMzk0MDIsImhhc2giOiJiYTYyMTI4YjQ4YmMyMzQ3NTIwYmEwMDQyNTMxNzczYzEzNTQ3Yjk3YjU0MDBhZTczNGM4YzExMjg1NzE5ODM5OWFlMzNkZTEzZWNlODg2MjQ2OTkyYTUyMzE1N2I4NzY4ZTliOTI3MjRkMWNiYWIxZmQ0YTAzZjZjOWEzYzU3ZiIsImhhc2hfbWV0YSI6IjZjNjgwNTJkYmU4MzVlNGNmM2M0NDM0NTg4Y2I0MDQ4Y2VjMWQ0MTc1NWM1NjdmNjEzZThhNmQwYTE3Y2M3NWYiLCJzZXFubyI6MTM4Mjc2MH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzdGV2ZW5oaWxsLm9yZy51ayIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjcifSwiY3RpbWUiOjE1MDUyMzk0MjIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMjA0Zjc5ZWIyOGJjNWQyZjNkNjU4OTQ4OWE0N2M3ODBiZDg2OWUyMjc4ZWMzNjYwMTg4ODdkNGZiZDVlMjkzNiIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQNWYYvArpNyCLHtdtfPInHuXv9i1kG5ClJFsnpTyavRpsG80C2XUWF//K84+pEpji1zv6aYgXSZPPGk8bxja5Ayoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCudE39ek17Yv6Rg/mPkyXcdMso7PPPw09IkxEkpaIGL6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stevenhill
+
+==================================================================
