@@ -1,4 +1,5 @@
 ---
+title: Book review: Inferior by Angela Saini
 layout: post
 date:  2018-01-23T08:57:12+0000
 categories:
