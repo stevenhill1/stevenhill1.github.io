@@ -22,9 +22,9 @@ Biographies of varying lengths are available below:
 
 Steven Hill is Director of Research Policy at Research England, a council of UK Research and Innovation. His background is in research policy.
 
-### Biography in about 50 words
+### Biography in about 60 words
 
-Steven Hill is Head of Research Policy at the Higher Education Funding Council for England. Prior to joining HEFCE Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs. Earlier in his career Steven was a university lecturer.
+Steven Hill is Director of Research Policy at Research England, a council of UK Research and Innovation. Steven transferred into Research England from the Higher Education Funding Council for England. Previously Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs. Earlier in his career Steven was a university lecturer.
 
 [download](/files/50WordBio.txt)
 
