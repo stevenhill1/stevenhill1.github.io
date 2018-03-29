@@ -20,7 +20,7 @@ Biographies of varying lengths are available below:
 
 ### Biography in about 140 characters
 
-Steven Hill is Head of Research Policy at the Higher Education Funding Council for England. He has a background in research policy.
+Steven Hill is Director of Research Policy at Research England, a council of UK Research and Innovation. His background is in research policy.
 
 ### Biography in about 50 words
 
