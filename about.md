@@ -20,17 +20,17 @@ Biographies of varying lengths are available below:
 
 ### Biography in about 140 characters
 
-Steven Hill is Director of Research Policy at Research England, a council of UK Research and Innovation. His background is in research policy.
+Steven Hill is Director of Research at Research England, a council of UK Research and Innovation. His background is in research policy.
 
 ### Biography in about 60 words
 
-Steven Hill is Director of Research Policy at Research England, a council of UK Research and Innovation. Steven transferred into Research England from the Higher Education Funding Council for England. Previously Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs. Earlier in his career Steven was a university lecturer.
+Steven Hill is Director of Research at Research England, a council of UK Research and Innovation. Steven transferred into Research England from the Higher Education Funding Council for England. Previously Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs. Earlier in his career Steven was a university lecturer.
 
 [download](/files/50WordBio.txt)
 
 ### Biography in about 100 words
 
-Steven Hill is Director of Research Policy at Research England, a council of UK Research and Innovation. At Research England Steven is responsible for research funding and assessment, open research, public engagement and impact. He is the chair of the steering group for the 2021 Research Excellence Framework. Steven transferred into Research England from the Higher Education Funding Council for England. Previously Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs, working on evidence-based policy making. Earlier in his career Steven was a university lecturer at the University of Oxford where his research focused on plant biology.
+Steven Hill is Director of Research at Research England, a council of UK Research and Innovation. At Research England Steven is responsible for research funding and assessment, open research, public engagement and impact. He is the chair of the steering group for the 2021 Research Excellence Framework. Steven transferred into Research England from the Higher Education Funding Council for England. Previously Steven was Head of the Strategy Unit at Research Councils UK, and had several roles in the Department for Environment, Food and Rural Affairs, working on evidence-based policy making. Earlier in his career Steven was a university lecturer at the University of Oxford where his research focused on plant biology.
 
 [download](/files/100WordBio.txt)
 
