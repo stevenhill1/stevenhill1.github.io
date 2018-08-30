@@ -9,6 +9,15 @@ tags:
     - 
 ---
 
+<!--
+OUTLINE
+
+- intro/context
+- measurement is an important part of policy development implemention
+- linking to assessment and incentives is also important - 'making space' argument
+- and openness is a legitimate dimension of quality.
+-->
+
 Should open scholarship measures be incorporated into assessment and incentive systems for researchers? This question is addressed in a recent [blog post](https://thebibliomagician.wordpress.com/2018/08/21/measuring-openness-should-we-be-careful-what-we-wish-for/) by [Lizzie Gadd](https://twitter.com/lizziegadd?). In the thoughtful post, Lizzie challenges the idea that that measurement-led incentive structures are necessarily a positive development in the progress towards more openness, and issues about measurement and the place of assessment in the research environment are surfaced that extend beyond openness _per se_.
 
 It is important to distinguish between the different ways in which measurement can be used, and the related question of at what level the measurement is conducted. Being able to measure how open research is, at least at the level of national systems or disciplines is necessary to know whether interventions (or even lack of interventions) are working. The well-used slogan 'you don't fatten a pig by weighing it' may well be true, but it is equally true that you don't know how effective your pig food is if you don't weigh the pig...
