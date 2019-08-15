@@ -18,6 +18,7 @@ avatar:
 
 timezone: Europe/London
 paginate: 5
+future: false
 
 # Includes an icon in the footer for each username you enter
 footer-links:
