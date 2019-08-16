@@ -11,6 +11,8 @@ tags:
     - peer review
 ---
 
+*This post was originally published on the HEFCE blog on 22 March 2018 ([archived copy](https://webarchive.nationalarchives.gov.uk/20180405115707oe_/http://blog.hefce.ac.uk/2018/03/22/anonymous-review-and-the-ref/)).*
+
 Over the last 40 years, leading orchestras have been through a remarkable transformation. Moving from what was a largely male-dominated profession, there is now significant representation of women in professional orchestras. While there are no doubt many factors behind the change, much is attributed to a single intervention – [the use of screened auditions](https://www.theguardian.com/women-in-leadership/2013/oct/14/blind-auditions-orchestras-gender-bias). Since selection panels do not know the gender of candidates, who perform in auditions from behind screens, the bias against female musicians has been significantly reduced.
 
 In the context of research, it is generally felt that peer review, while a key part of the processes of validation and assessment, also has biases – both conscious and unconscious. These might be biases against female authors, in favour of research from well-known researchers or prestigious institutions, or relating to nationality or race. And as with orchestras, the use of anonymous review is often held up as a – or even **the **– solution. It is suggested for all types of peer review – the assessment of research proposals, the evaluation of research outputs before publication, and the post-publication review of research.
