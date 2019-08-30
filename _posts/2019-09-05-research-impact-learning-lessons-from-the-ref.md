@@ -1,6 +1,6 @@
 ---
-title: Research impact: learning lessons from the REF
-date: 2019-09-05T11:30:00+01:00
+title: Impact learning lessons from the REF
+date: 2019-08-25T17:30:00+01:00
 layout: post
 categories:
     - Research policy
