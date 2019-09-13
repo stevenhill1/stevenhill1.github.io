@@ -34,7 +34,7 @@ Of course, this isn’t an exhaustive search for cases related to mental health 
 
 These case studies were submitted to 30 out of the 36 discipline based Units of Assessment (UOAs), and the distribution of the case studies between the UOAs is shown in the chart below.
 
-![Distribution of case studies to Units of Assessment](images/Case-studies-by-UOAs.gif "Distribution of case studies to Units of Assessment")
+![Distribution of case studies to Units of Assessment](/images/Case-studies-by-UOAs.gif "Distribution of case studies to Units of Assessment")
 
 The diversity is striking. While the subpanel with most case studies in this set is Psychology, Psychiatry and Neuroscience and other health related units feature prominently, there are significant contributions from other disciplines, like Social Work and Social Policy and English Language and Literature.
 
@@ -42,7 +42,7 @@ And there are also lots of other UOAs that demonstrate a linkage to the challeng
 
 As well as the at the level of broad UOAs, the case studies have also been characterised in terms of the fields of research of the underpinning research declared in the case study. Analysed at this level, a similarly diverse picture emerges.
 
-Of the 150 or so fields of research, 63 are represented in this set of case studies. Health and medical related disciplines are important, but so are disciplines like Cultural Studies, Policy Studies and Applied Economics. [A table of the full list of 63 disciplines is available here](files/fields_of_research_mental_health.xlsx). As is the case with the impact case studies generally, those relating to mental health are interdisciplinary, with 75 per cent drawing on 2 or 3 different fields of research.
+Of the 150 or so fields of research, 63 are represented in this set of case studies. Health and medical related disciplines are important, but so are disciplines like Cultural Studies, Policy Studies and Applied Economics. [A table of the full list of 63 disciplines is available here](/files/fields_of_research_mental_health.xlsx). As is the case with the impact case studies generally, those relating to mental health are interdisciplinary, with 75 per cent drawing on 2 or 3 different fields of research.
 
 **How can investment support research challenges?**
 
