@@ -28,7 +28,7 @@ With the systematic collection of [impact case studies](http://impact.ref.ac.uk
 
 Doing this analysis for mental health reveals an interesting picture. If you search the impact case study database for the search terms ‘mental health’, ‘dementia’ and ‘suicide’, that identifies a set of 355 case studies, with some overlap between the search terms:
 
-![Impact cases relating to mental health](images/Impact-case-study-search.gif "Impact cases relating to mental health")
+![Impact cases relating to mental health](/images/Impact-case-study-search.gif "Impact cases relating to mental health")
 
 Of course, this isn’t an exhaustive search for cases related to mental health issues; there may be more, but already this set accounts for around 5 per cent of all the case studies submitted to REF2014.
 
