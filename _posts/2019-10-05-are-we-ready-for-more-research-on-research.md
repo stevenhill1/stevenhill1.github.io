@@ -1,7 +1,7 @@
 ---
 title: Are we ready for more research on research?
 layout: post
-date: 2019-10-05T15:3700T+01:00
+date: 2019-10-05T15:37:00+01:00
 categories:
     - Research policy
 tags:
