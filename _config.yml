@@ -19,7 +19,8 @@ avatar:
 timezone: Europe/London
 paginate: 5
 future: false
-remote_theme: heiswayi/the-plain
+remote_theme: thelehhman/plainwhite-jekyll 
+# heiswayi/the-plain
 
 # Includes an icon in the footer for each username you enter
 footer-links:
