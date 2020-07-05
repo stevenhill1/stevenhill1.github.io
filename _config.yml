@@ -19,10 +19,10 @@ avatar:
 timezone: Europe/London
 paginate: 5
 future: false
-remote_theme: mmistakes/minimal-mistakes@4.19.3
+remote_theme: thelehhman/plainwhite-jekyll
 
+# mmistakes/minimal-mistakes@4.19.3
 # heiswayi/the-plain
-# thelehhman/plainwhite-jekyll
 
 # Includes an icon in the footer for each username you enter
 footer-links:
