@@ -22,6 +22,6 @@ I am thinking about, researching, or drafting articles on:
 I am currently reading:
 
 * Social Physics: How Social Networks Can Make Us Smarter by Alex Pentland ([Amazon UK link](https://www.amazon.co.uk/Social-Physics-Networks-Make-Smarter/dp/0143126334/))
-* Mr Penumbra's 24-Hour Bookstore by Robin Sloan([Amazon UK link](https://www.amazon.co.uk/Penumbras-24-hour-Bookstore-Robin-Sloan/dp/1782391215/))
+* Mr Penumbra's 24-Hour Bookstore by Robin Sloan ([Amazon UK link](https://www.amazon.co.uk/Penumbras-24-hour-Bookstore-Robin-Sloan/dp/1782391215/))
 
 Updated 28 August 2020. Inspired by [this](https://nownownow.com/about).
