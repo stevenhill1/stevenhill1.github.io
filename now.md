@@ -22,7 +22,7 @@ I am thinking about, researching, or drafting articles on:
 
 I am currently reading:
 
-* Scale: The Universal Laws of Life and Death in Organisms, Cities and Companies by Geoffry West ([Amazon UK link](https://www.amazon.co.uk/Scale-Universal-Organisms-Cities-Companies-ebook/dp/B010P7Z8J0/)
+* Scale: The Universal Laws of Life and Death in Organisms, Cities and Companies by Geoffrey West [Amazon UK link](https://www.amazon.co.uk/Scale-Universal-Organisms-Cities-Companies-ebook/dp/B010P7Z8J0/)
 * The Three-Body Problem by Cixin Liu [Amazon UK link](https://www.amazon.co.uk/Three-Body-Problem-Cixin-Liu-ebook/dp/B00S8FCJCQ/)
 
 Updated 11 September 2020. Inspired by [this](https://nownownow.com/about).
