@@ -19,10 +19,11 @@ I am thinking about, researching, or drafting articles on:
 * alternatives to peer review for the allocation of research funding (mentioned in a [previous post](https://stevenhill.org.uk/a-post-pandemic-research-agenda/))
 * the implications of applying the ideas of systems thinking to the research system (also mentioned in a [the same post](https://stevenhill.org.uk/a-post-pandemic-research-agenda/))
 * updating the ideas in my post on ['Four trends shaping the future of research evaluation'](https://stevenhill.org.uk/four-trends-shaping-the-future-of-research-evaluation/) in the light of the pandemic
+* the role of 'realist' approach to evaluation in research policy
 
 I am currently reading:
 
 * Scale: The Universal Laws of Life and Death in Organisms, Cities and Companies by Geoffrey West [Amazon UK link](https://www.amazon.co.uk/Scale-Universal-Organisms-Cities-Companies-ebook/dp/B010P7Z8J0/)
 * The Three-Body Problem by Cixin Liu [Amazon UK link](https://www.amazon.co.uk/Three-Body-Problem-Cixin-Liu-ebook/dp/B00S8FCJCQ/)
 
-Updated 11 September 2020. Inspired by [this](https://nownownow.com/about).
+Updated 3 October 2020. Inspired by [this](https://nownownow.com/about).
