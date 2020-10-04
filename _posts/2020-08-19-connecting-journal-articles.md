@@ -32,7 +32,7 @@ the tool only works for journal articles and is limited in its disciplinary cove
 Nonetheless in experimenting with Connected Papers over the last few weeks I have found it a useful tool to find new articles on topics that I am researching.
 
 The best way to illustrate the tool is with an example.
-The image below shows the graph generated using an [article](https://doi.org/10.1007/s11024-016-9290-0)[^full ref] written by [Gemma Derrick](https://www.lancaster.ac.uk/educational-research/people/gemma-derrick)and [Gabrielle Samuel](https://www.kcl.ac.uk/people/gabrielle-samuel) on impact evaluation in the 2014 Research Excellence Framework (REF).
+The image below shows the graph generated using an [article](https://doi.org/10.1007/s11024-016-9290-0)[^full ref] written by [Gemma Derrick](https://www.lancaster.ac.uk/educational-research/people/gemma-derrick) and [Gabrielle Samuel](https://www.kcl.ac.uk/people/gabrielle-samuel) on impact evaluation in the 2014 Research Excellence Framework (REF).
 
 ![Example connected papers output](/images/connected-papers-example.jpg "Example connected papers output")
 
