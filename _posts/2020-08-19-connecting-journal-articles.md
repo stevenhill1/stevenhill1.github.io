@@ -53,4 +53,5 @@ As an introduction to the field, however,
 I think Connected Papers represents a very slick way of going from one article to understanding the broader landscape.
 
 [^discovery]: How I came across Connected Papers is itself an interesting story of serendipity. Over the last few months I have been using the personal knowledge management and note taking app, [Roam](https://roamresearch.com). While reading [a blog post](https://www.roambrain.com/roaming-in-the-past/) on using Roam, I spotted a reference to Connected Papers in an image illustrating the post.
+
 [^full ref]: The paper used is Derrick, G. E., & Samuel, G. N. (2016). The Evaluation Scale: Exploring Decisions About Societal Impact in Peer Review Panels. Minerva, 54(1), 75–97. [https://doi.org/10.1007/s11024-016-9290-0](https://doi.org/10.1007/s11024-016-9290-0)
