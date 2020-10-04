@@ -32,7 +32,7 @@ the tool only works for journal articles and is limited in its disciplinary cove
 Nonetheless in experimenting with Connected Papers over the last few weeks I have found it a useful tool to find new articles on topics that I am researching.
 
 The best way to illustrate the tool is with an example.
-The image below shows the graph generated using an [article](https://doi.org/10.1007/s11024-016-9290-0)[^full ref] written by [Gemma Derrick](https://www.lancaster.ac.uk/educational-research/people/gemma-derrick) and [Gabrielle Samuel](https://www.kcl.ac.uk/people/gabrielle-samuel) on impact evaluation in the 2014 Research Excellence Framework (REF).
+The image below shows the graph generated using an [article](https://doi.org/10.1007/s11024-016-9290-0) written by [Gemma Derrick](https://www.lancaster.ac.uk/educational-research/people/gemma-derrick) and [Gabrielle Samuel](https://www.kcl.ac.uk/people/gabrielle-samuel) on impact evaluation in the 2014 Research Excellence Framework (REF)[^full-ref].
 
 ![Example connected papers output](/images/connected-papers-example.jpg "Example connected papers output")
 
@@ -54,4 +54,4 @@ I think Connected Papers represents a very slick way of going from one article t
 
 [^discovery]: How I came across Connected Papers is itself an interesting story of serendipity. Over the last few months I have been using the personal knowledge management and note taking app, [Roam](https://roamresearch.com). While reading [a blog post](https://www.roambrain.com/roaming-in-the-past/) on using Roam, I spotted a reference to Connected Papers in an image illustrating the post.
 
-[^full ref]: The paper used is Derrick, G. E., & Samuel, G. N. (2016). The Evaluation Scale: Exploring Decisions About Societal Impact in Peer Review Panels. Minerva, 54(1), 75–97. [https://doi.org/10.1007/s11024-016-9290-0](https://doi.org/10.1007/s11024-016-9290-0)
+[^full-ref]: The paper used is Derrick, G. E., & Samuel, G. N. (2016). The Evaluation Scale: Exploring Decisions About Societal Impact in Peer Review Panels. Minerva, 54(1), 75–97. [https://doi.org/10.1007/s11024-016-9290-0](https://doi.org/10.1007/s11024-016-9290-0)
