@@ -11,7 +11,7 @@ layout: post
 ---
 
 Research has impact.
-The knolwedge, understanding and know-how that comes from deep investigation leads to concrete changes of considerable diversity,
+The knowledge, understanding and know-how that comes from deep investigation leads to concrete changes of considerable diversity,
 from cultural benefits to environmental improvements,
 from the economic benefits of new and improved products and services,
 to the health benefits of enhanced treatment approaches and novel drugs.
