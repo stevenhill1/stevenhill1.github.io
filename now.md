@@ -23,7 +23,7 @@ I am thinking about, researching, or drafting articles on:
 
 I am currently reading:
 
-* Scale: The Universal Laws of Life and Death in Organisms, Cities and Companies by Geoffrey West [Amazon UK link](https://www.amazon.co.uk/Scale-Universal-Organisms-Cities-Companies-ebook/dp/B010P7Z8J0/)
+* Scarcity: The True Cost of Not Having Enough by Sendhil Mullainathan and Eldar Shafir [Amazon UK link](https://www.amazon.co.uk/Scarcity-True-Cost-Having-Enough/dp/0141049197/)
 * The Three-Body Problem by Cixin Liu [Amazon UK link](https://www.amazon.co.uk/Three-Body-Problem-Cixin-Liu-ebook/dp/B00S8FCJCQ/)
 
 Updated 3 October 2020. Inspired by [this](https://nownownow.com/about).
