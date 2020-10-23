@@ -8,9 +8,7 @@ I am currently living and working at home in North Wiltshire.
 
 In my role as Director of Research for [Research England](https://re.ukri.org/), I am focussing on:
 
-* how to allocate additional funding streams (for specialist institutions, announced in [Budget 2020](https://www.gov.uk/government/publications/budget-2020-documents/budget-2020), and capital funding, [announced](https://www.gov.uk/government/news/government-fires-up-rd-across-the-country-to-cement-the-uk-as-science-superpower) on 1 July 2020)
-* working on Research England's contributions to the [Spending Review](https://www.gov.uk/government/news/chancellor-launches-comprehensive-spending-review)
-* our upcoming call (joint with the [Office for Students]()) on [reducing inequalities in postgraduate research study](http://re.ukri.org/news-opinions-events/news/notice-of-a-joint-research-england-and-office-for-students-funding-competition-to-reduce-inequalities-in-postgraduate-research-study/)
+* planning work on the future UK national research assessment following the [speech](https://www.gov.uk/government/speeches/science-minister-on-the-research-landscape) by Amanda Solloway
 * the future work plan and projects of the [Forum for Responsible Research Metrics](https://www.universitiesuk.ac.uk/policy-and-analysis/research-policy/open-science/Pages/forum-for-responsible-research-metrics.aspx)
 
 
@@ -23,7 +21,7 @@ I am thinking about, researching, or drafting articles on:
 
 I am currently reading:
 
-* Scarcity: The True Cost of Not Having Enough by Sendhil Mullainathan and Eldar Shafir [Amazon UK link](https://www.amazon.co.uk/Scarcity-True-Cost-Having-Enough/dp/0141049197/)
+* Essentialism: The Disciplined Pursuit of Less by Greg Mckeown [Amazon UK link](https://www.amazon.co.uk/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00HELB6XI/)
 * The Three-Body Problem by Cixin Liu [Amazon UK link](https://www.amazon.co.uk/Three-Body-Problem-Cixin-Liu-ebook/dp/B00S8FCJCQ/)
 
-Updated 3 October 2020. Inspired by [this](https://nownownow.com/about).
+Updated 23 October 2020. Inspired by [this](https://nownownow.com/about).
